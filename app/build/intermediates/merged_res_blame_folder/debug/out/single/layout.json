@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_top_comment.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_top_comment.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_tag_list_item.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_tag_list_item.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_tag.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_tag.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_type_image.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_type_image.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_text.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_text.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_refresh_view.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_refresh_view.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_layout_tag_feed_list.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_tag_feed_list.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_detail_type_image_header.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_detail_type_image_header.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_layout_capture.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_capture.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_layout_profile.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_profile.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_tag_feed_list_header.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_tag_feed_list_header.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_my.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/fragment_my.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_type_comment.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_type_comment.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_detail_type_video_header.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_detail_type_video_header.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_comment_list_item.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_comment_list_item.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_layout_publish.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_publish.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_layout_preview.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_preview.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_detail_bottom_inateraction.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_detail_bottom_inateraction.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_feed_detail_type_image.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_feed_detail_type_image.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_detail_type_video.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_detail_type_video.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_profile_tab_comment_interaction.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_profile_tab_comment_interaction.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_detail_author_info.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_detail_author_info.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sofa.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/fragment_sofa.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_author.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_author.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_type_video.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_type_video.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_comment_dialog.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_comment_dialog.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_feed_interaction.xml",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_interaction.xml"
+    }
+]

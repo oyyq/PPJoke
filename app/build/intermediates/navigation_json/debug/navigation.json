@@ -1,0 +1,34 @@
+[
+  {
+    "name": "mobile_navigation",
+    "navigationXmlIds": [],
+    "deepLinks": [
+      {
+        "schemes": [
+          "http",
+          "https"
+        ],
+        "host": "www.mooc.com",
+        "port": -1,
+        "path": "/",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mSourceFile": {
+              "path": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/navigation/mobile_navigation.xml"
+            },
+            "mDescription": "mobile_navigation"
+          },
+          "mSourcePosition": {
+            "mStartLine": 27,
+            "mStartColumn": 8,
+            "mStartOffset": 903,
+            "mEndLine": 29,
+            "mEndColumn": 37,
+            "mEndOffset": 989
+          }
+        },
+        "isAutoVerify": false
+      }
+    ]
+  }
+]

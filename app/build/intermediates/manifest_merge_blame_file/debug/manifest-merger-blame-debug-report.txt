@@ -1,0 +1,385 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mooc.ppjoke"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:7:5-81
+13-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:8:5-80
+14-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:9:5-65
+15-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:9:22-62
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:10:5-71
+16-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:10:22-68
+17    <uses-permission android:name="android.permission.FLASHLIGHT" />
+17-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:11:5-69
+17-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:11:22-66
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:12:5-75
+18-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:12:22-72
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:13:5-76
+19-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:13:22-73
+20    <uses-permission android:name="android.permission.READ_LOGS" />
+20-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:14:5-68
+20-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:14:22-65
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:25:5-68
+21-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:25:22-65
+22    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+22-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:27:5-81
+22-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:27:22-78
+23    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+23-->[com.aliyun.dpa:oss-android-sdk:2.9.5] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/c5837216e9ead18d6fc5c3bc995864b3/jetified-oss-android-sdk-2.9.5/AndroidManifest.xml:15:5-76
+23-->[com.aliyun.dpa:oss-android-sdk:2.9.5] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/c5837216e9ead18d6fc5c3bc995864b3/jetified-oss-android-sdk-2.9.5/AndroidManifest.xml:15:22-73
+24
+25    <application
+25-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:17:5-89:19
+26        android:name="com.mooc.ppjoke.JokeApplication"
+26-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:18:9-40
+27        android:allowBackup="true"
+27-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:19:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.1.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/80f58724caaf330e74c3000cc6797977/core-1.1.0/AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@mipmap/icon_jetpack"
+30-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:20:9-44
+31        android:label="@string/app_name"
+31-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:21:9-41
+32        android:roundIcon="@mipmap/icon_jetpack"
+32-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:22:9-49
+33        android:supportsRtl="true"
+33-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:23:9-35
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme"
+35-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:24:9-40
+36        android:usesCleartextTraffic="true" >
+36-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:25:9-44
+37
+38        <!-- 这是是QQ快捷登录SDK 里面包含但没用的 apache的类，需要在这里通过uses-library去除掉 -->
+39        <uses-library
+39-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:27:9-29:40
+40            android:name="org.apache.http.legacy"
+40-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:28:13-50
+41            android:required="false" />
+41-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:29:13-37
+42
+43        <activity
+43-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:31:9-39:20
+44            android:name="com.mooc.ppjoke.MainActivity"
+44-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:32:13-41
+45            android:label="@string/app_name"
+45-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:33:13-45
+46            android:theme="@style/launcher" >
+46-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:34:13-44
+47            <intent-filter>
+47-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:35:13-38:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:36:17-69
+48-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:36:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:37:17-77
+50-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:37:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:41:9-43:61
+54            android:name="com.mooc.ppjoke.ui.publish.PublishActivity"
+54-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:42:13-55
+55            android:screenOrientation="portrait" />
+55-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:43:13-49
+56        <activity
+56-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:44:9-47:55
+57            android:name="com.mooc.ppjoke.ui.publish.CaptureActivity"
+57-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:45:13-55
+58            android:screenOrientation="portrait"
+58-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:46:13-49
+59            android:theme="@style/capture" />
+59-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:47:13-43
+60        <activity
+60-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:49:9-52:55
+61            android:name="com.mooc.ppjoke.ui.publish.PreviewActivity"
+61-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:50:13-55
+62            android:screenOrientation="portrait"
+62-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:51:13-49
+63            android:theme="@style/preview" />
+63-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:52:13-43
+64        <activity android:name="com.mooc.ppjoke.ui.login.LoginActivity" />
+64-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:54:9-69
+64-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:54:19-57
+65        <activity
+65-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:56:9-61:20
+66            android:name="com.mooc.ppjoke.ui.detail.FeedDetailActivity"
+66-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:57:13-57
+67            android:screenOrientation="portrait"
+67-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:58:13-49
+68            android:theme="@style/feedDetail" >
+68-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:59:13-46
+69        </activity>
+70        <activity android:name="com.mooc.ppjoke.ui.find.TagFeedListActivity" />
+70-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:63:9-74
+70-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:63:19-62
+71        <activity android:name="com.mooc.ppjoke.ui.my.ProfileActivity" />
+71-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:65:9-68
+71-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:65:19-56
+72        <activity android:name="com.mooc.ppjoke.ui.my.UserBehaviorListActivity" />
+72-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:67:9-77
+72-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:67:19-65
+73
+74        <!-- 注册SDKActivity -->
+75        <activity
+75-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:71:9-84:20
+76            android:name="com.tencent.tauth.AuthActivity"
+76-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:72:13-58
+77            android:launchMode="singleTask"
+77-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:73:13-44
+78            android:noHistory="true"
+78-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:74:13-37
+79            android:screenOrientation="portrait" >
+79-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:75:13-49
+80            <intent-filter>
+80-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:76:13-83:29
+81                <action android:name="android.intent.action.VIEW" />
+81-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:77:17-69
+81-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:77:25-66
+82
+83                <category android:name="android.intent.category.DEFAULT" />
+83-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:79:17-76
+83-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:79:27-73
+84                <category android:name="android.intent.category.BROWSABLE" />
+84-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:80:17-78
+84-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:80:27-75
+85
+86                <data android:scheme="tencent101794421" />
+86-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:82:17-59
+86-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:82:23-56
+87            </intent-filter>
+88        </activity>
+89        <activity
+89-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:85:9-87:75
+90            android:name="com.tencent.connect.common.AssistActivity"
+90-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:86:13-69
+91            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+91-->/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/AndroidManifest.xml:87:13-72
+92
+93        <provider
+93-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/67f50bf9e8ec0e817db6486d97ff49c5/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+94            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+94-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/67f50bf9e8ec0e817db6486d97ff49c5/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+95            android:authorities="com.mooc.ppjoke.lifecycle-process"
+95-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/67f50bf9e8ec0e817db6486d97ff49c5/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+96            android:exported="false"
+96-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/67f50bf9e8ec0e817db6486d97ff49c5/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+97            android:multiprocess="true" />
+97-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/67f50bf9e8ec0e817db6486d97ff49c5/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+98        <provider
+98-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:30:9-36:35
+99            android:name="androidx.work.impl.WorkManagerInitializer"
+99-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:31:13-69
+100            android:authorities="com.mooc.ppjoke.workmanager-init"
+100-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:32:13-68
+101            android:directBootAware="false"
+101-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:33:13-44
+102            android:exported="false"
+102-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:34:13-37
+103            android:multiprocess="true" />
+103-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:35:13-40
+104
+105        <service
+105-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:38:9-43:35
+106            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+106-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:39:13-88
+107            android:directBootAware="false"
+107-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:40:13-44
+108            android:enabled="@bool/enable_system_alarm_service_default"
+108-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:41:13-72
+109            android:exported="false" />
+109-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:42:13-37
+110        <service
+110-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:44:9-50:35
+111            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+111-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:45:13-84
+112            android:directBootAware="false"
+112-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:46:13-44
+113            android:enabled="@bool/enable_system_job_service_default"
+113-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:47:13-70
+114            android:exported="true"
+114-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:48:13-36
+115            android:permission="android.permission.BIND_JOB_SERVICE" />
+115-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:49:13-69
+116
+117        <receiver
+117-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:52:9-57:35
+118            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+118-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:53:13-88
+119            android:directBootAware="false"
+119-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:54:13-44
+120            android:enabled="true"
+120-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:55:13-35
+121            android:exported="false" />
+121-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:56:13-37
+122        <receiver
+122-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:58:9-68:20
+123            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+123-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:59:13-106
+124            android:directBootAware="false"
+124-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:60:13-44
+125            android:enabled="false"
+125-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:61:13-36
+126            android:exported="false" >
+126-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:62:13-37
+127            <intent-filter>
+127-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:64:13-67:29
+128                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+128-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:65:17-87
+128-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:65:25-84
+129                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+129-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:66:17-90
+129-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:66:25-87
+130            </intent-filter>
+131        </receiver>
+132        <receiver
+132-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:69:9-79:20
+133            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+133-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:70:13-104
+134            android:directBootAware="false"
+134-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:71:13-44
+135            android:enabled="false"
+135-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:72:13-36
+136            android:exported="false" >
+136-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:73:13-37
+137            <intent-filter>
+137-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:75:13-78:29
+138                <action android:name="android.intent.action.BATTERY_OKAY" />
+138-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:76:17-77
+138-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:76:25-74
+139                <action android:name="android.intent.action.BATTERY_LOW" />
+139-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:77:17-76
+139-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:77:25-73
+140            </intent-filter>
+141        </receiver>
+142        <receiver
+142-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:80:9-90:20
+143            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+143-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:81:13-104
+144            android:directBootAware="false"
+144-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:82:13-44
+145            android:enabled="false"
+145-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:83:13-36
+146            android:exported="false" >
+146-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:84:13-37
+147            <intent-filter>
+147-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:86:13-89:29
+148                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+148-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:87:17-83
+148-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:87:25-80
+149                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+149-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:88:17-82
+149-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:88:25-79
+150            </intent-filter>
+151        </receiver>
+152        <receiver
+152-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:91:9-100:20
+153            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+153-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:92:13-103
+154            android:directBootAware="false"
+154-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:93:13-44
+155            android:enabled="false"
+155-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:94:13-36
+156            android:exported="false" >
+156-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:95:13-37
+157            <intent-filter>
+157-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:97:13-99:29
+158                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+158-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:98:17-79
+158-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:98:25-76
+159            </intent-filter>
+160        </receiver>
+161        <receiver
+161-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:101:9-112:20
+162            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+162-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:102:13-88
+163            android:directBootAware="false"
+163-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:103:13-44
+164            android:enabled="false"
+164-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:104:13-36
+165            android:exported="false" >
+165-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:105:13-37
+166            <intent-filter>
+166-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:107:13-111:29
+167                <action android:name="android.intent.action.BOOT_COMPLETED" />
+167-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:108:17-79
+167-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:108:25-76
+168                <action android:name="android.intent.action.TIME_SET" />
+168-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:109:17-73
+168-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:109:25-70
+169                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+169-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:110:17-81
+169-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:110:25-78
+170            </intent-filter>
+171        </receiver>
+172        <receiver
+172-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:113:9-122:20
+173            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+173-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:114:13-99
+174            android:directBootAware="false"
+174-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:115:13-44
+175            android:enabled="@bool/enable_system_alarm_service_default"
+175-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:116:13-72
+176            android:exported="false" >
+176-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:117:13-37
+177            <intent-filter>
+177-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:119:13-121:29
+178                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+178-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:120:17-98
+178-->[androidx.work:work-runtime:2.2.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/b034a638f1e4613fa459d489d81d4abd/work-runtime-2.2.0/AndroidManifest.xml:120:25-95
+179            </intent-filter>
+180        </receiver>
+181
+182        <uses-library
+182-->[androidx.camera:camera-extensions:1.0.0-alpha01] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/d223427e7649f2034e16936f32521d2e/jetified-camera-extensions-1.0.0-alpha01/AndroidManifest.xml:25:9-27:40
+183            android:name="androidx.camera.extensions.impl"
+183-->[androidx.camera:camera-extensions:1.0.0-alpha01] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/d223427e7649f2034e16936f32521d2e/jetified-camera-extensions-1.0.0-alpha01/AndroidManifest.xml:26:13-59
+184            android:required="false" />
+184-->[androidx.camera:camera-extensions:1.0.0-alpha01] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/d223427e7649f2034e16936f32521d2e/jetified-camera-extensions-1.0.0-alpha01/AndroidManifest.xml:27:13-37
+185
+186        <provider
+186-->[androidx.camera:camera-camera2:1.0.0-alpha04] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/5d84509bee984414a29e0af46fe68db7/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:25:9-30:43
+187            android:name="androidx.camera.camera2.impl.Camera2Initializer"
+187-->[androidx.camera:camera-camera2:1.0.0-alpha04] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/5d84509bee984414a29e0af46fe68db7/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:26:13-75
+188            android:authorities="com.mooc.ppjoke.camerax-init"
+188-->[androidx.camera:camera-camera2:1.0.0-alpha04] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/5d84509bee984414a29e0af46fe68db7/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:27:13-64
+189            android:exported="false"
+189-->[androidx.camera:camera-camera2:1.0.0-alpha04] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/5d84509bee984414a29e0af46fe68db7/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:28:13-37
+190            android:initOrder="100"
+190-->[androidx.camera:camera-camera2:1.0.0-alpha04] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/5d84509bee984414a29e0af46fe68db7/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:29:13-36
+191            android:multiprocess="true" />
+191-->[androidx.camera:camera-camera2:1.0.0-alpha04] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/5d84509bee984414a29e0af46fe68db7/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:30:13-40
+192
+193        <service
+193-->[androidx.room:room-runtime:2.1.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/6d7cd11850027465120e40f53813cdee/room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
+194            android:name="androidx.room.MultiInstanceInvalidationService"
+194-->[androidx.room:room-runtime:2.1.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/6d7cd11850027465120e40f53813cdee/room-runtime-2.1.0/AndroidManifest.xml:26:13-74
+195            android:exported="false" />
+195-->[androidx.room:room-runtime:2.1.0] /Users/ouyangyunqing/.gradle/caches/transforms-2/files-2.1/6d7cd11850027465120e40f53813cdee/room-runtime-2.1.0/AndroidManifest.xml:27:13-37
+196    </application>
+197
+198</manifest>

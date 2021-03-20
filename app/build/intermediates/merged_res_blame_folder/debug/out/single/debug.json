@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_back_black.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_back_black.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_profile_my_post.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/ic_profile_my_post.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_activity_layout_capture.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_capture.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_simple_exo_player_view.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_simple_exo_player_view.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_cell_like_large.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxxhdpi/icon_cell_like_large.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_activity_feed_detail_type_image.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_feed_detail_type_image.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_collected.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/ic_collected.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_share_item.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_share_item.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_exo_player_contorller_view.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_exo_player_contorller_view.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable_bg_edit_view.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable/bg_edit_view.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_cell_share.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_cell_share.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_right_arrow.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/ic_right_arrow.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_switch_camera.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_switch_camera.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_tab_sofa.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_tab_sofa.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable_list_divider_2px.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable/list_divider_2px.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_interaction.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_interaction.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon_jetpack.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-xxhdpi/icon_jetpack.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_cell_comment_like_white.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_cell_comment_like_white.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_publish_close.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/ic_publish_close.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_tag.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_tag.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_cell_like.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_cell_like.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_activity_layout_publish.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_publish.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_activity_layout_login.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_login.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_player_view.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_player_view.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_detail_bottom_inateraction.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_detail_bottom_inateraction.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_type_comment.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_type_comment.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_type_video.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_type_video.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_cell_liked_large.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxxhdpi/icon_cell_liked_large.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_video_play.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_video_play.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_back_white.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_back_white.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_comment_list_item.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_comment_list_item.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_tab_home.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_tab_home.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_publish_text.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_publish_text.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_detail_type_image_header.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_detail_type_image_header.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_simple_exo_player_controller_view.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_simple_exo_player_controller_view.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_wx_circle.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_wx_circle.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_fragment_find.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/fragment_find.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_detail_type_video.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_detail_type_video.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_fragment_sofa.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/fragment_sofa.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_refresh_view.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_refresh_view.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_tab_publish.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_tab_publish.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_item_cell_delete.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_item_cell_delete.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable_splash.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable/splash.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_tag_list_item.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_tag_list_item.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_profile_my_comment.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/ic_profile_my_comment.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_logout.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_logout.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_activity_layout_list.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_list.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_activity_layout_tag_feed_list.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_tag_feed_list.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_comment_dialog.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_comment_dialog.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_detail_author_info.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_detail_author_info.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_activity_layout_profile.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_profile.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_profile_tab_comment_interaction.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_profile_tab_comment_interaction.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_top_comment.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_top_comment.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_tab_movie.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_tab_movie.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add_club.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/ic_add_club.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_author.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_author.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_tab_mine.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_tab_mine.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_cell_liked.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_cell_liked.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_publish_video.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_publish_video.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_tab_find.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_tab_find.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_type_image.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_type_image.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_cell_diss.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_cell_diss.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_text.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_text.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_profile_my_collection.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/ic_profile_my_collection.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_profile_my_read_history.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/ic_profile_my_read_history.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_fragment_my.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/fragment_my.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_collect.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/ic_collect.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_close.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_close.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_video_pause.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_video_pause.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_publish_pic.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_publish_pic.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_cell_comment.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_cell_comment.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_qq.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_qq.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_tag.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_tag.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_exo_player_view.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_exo_player_view.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable_bg_edit_view2.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable/bg_edit_view2.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable_list_divider.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable/list_divider.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_god_comment2.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_god_comment2.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_cell_dissed.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_cell_dissed.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add_file.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/ic_add_file.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_wx.png.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/drawable-xxhdpi/icon_wx.png"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_feed_detail_type_video_header.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_feed_detail_type_video_header.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_tag_bottom_sheet_dialog.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_tag_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_activity_layout_preview.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/activity_layout_preview.xml"
+    },
+    {
+        "merged": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/build/intermediates/res/merged/debug/layout_layout_tag_feed_list_header.xml.flat",
+        "source": "/Users/ouyangyunqing/AndroidStudioProjects/ppjoke_jetpack/app/src/main/res/layout/layout_tag_feed_list_header.xml"
+    }
+]

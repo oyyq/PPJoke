@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical">
+        <!-- fitsSystemWindows属性的源码注释中阐明:
+               Boolean internal attribute to adjust view layout based on
+             system windows such as the status bar.
+             If true,
+             todo adjusts the padding of this view to leave space for the system windows.
+             todo Will only take effect if this view is in a non-embedded activity.
+             也就是不能在全屏的activity布局中使用-->
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_45"
+            app:tabGravity="center"
+            app:tabIndicatorColor="@color/color_theme"
+            app:tabIndicatorFullWidth="false"
+            app:tabIndicatorHeight="@dimen/dp_2"
+            app:tabInlineLabel="true"
+            app:tabMode="scrollable"
+            app:tabSelectedTextColor="@color/color_theme"
+            app:tabTextColor="@color/color_333"
+            app:tabUnboundedRipple="true"></com.google.android.material.tabs.TabLayout>
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"></androidx.viewpager2.widget.ViewPager2>
+    </LinearLayout>
+</layout>

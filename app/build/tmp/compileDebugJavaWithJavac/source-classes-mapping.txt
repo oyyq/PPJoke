@@ -1,0 +1,313 @@
+com/mooc/ppjoke/DataBindingTriggerClass.java
+ com.mooc.ppjoke.DataBindingTriggerClass
+com/mooc/ppjoke/ui/my/ProfileActivity.java
+ com.mooc.ppjoke.ui.my.ProfileActivity
+ com.mooc.ppjoke.ui.my.ProfileActivity$1
+ com.mooc.ppjoke.ui.my.ProfileActivity$2
+ com.mooc.ppjoke.ui.my.ProfileActivity$3
+com/mooc/ppjoke/ui/find/TagListAdapter.java
+ com.mooc.ppjoke.ui.find.TagListAdapter
+ com.mooc.ppjoke.ui.find.TagListAdapter$1
+ com.mooc.ppjoke.ui.find.TagListAdapter$ViewHolder
+com/mooc/ppjoke/databinding/LayoutTagFeedListHeaderBinding.java
+ com.mooc.ppjoke.databinding.LayoutTagFeedListHeaderBinding
+com/mooc/ppjoke/databinding/FragmentSofaBinding.java
+ com.mooc.ppjoke.databinding.FragmentSofaBinding
+com/mooc/ppjoke/BuildConfig.java
+ com.mooc.ppjoke.BuildConfig
+com/mooc/ppjoke/ui/MutablePageKeyedDataSource.java
+ com.mooc.ppjoke.ui.MutablePageKeyedDataSource
+com/mooc/ppjoke/view/AppBottomBar.java
+ com.mooc.ppjoke.view.AppBottomBar
+com/mooc/ppjoke/ui/detail/RecordView.java
+ com.mooc.ppjoke.ui.detail.RecordView
+ com.mooc.ppjoke.ui.detail.RecordView$1
+com/mooc/ppjoke/databinding/LayoutFeedDetailTypeVideoHeaderBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedDetailTypeVideoHeaderBinding
+com/mooc/ppjoke/databinding/LayoutFeedDetailBottomInateractionBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedDetailBottomInateractionBinding
+com/mooc/ppjoke/ui/detail/ViewZoomBehavior.java
+ com.mooc.ppjoke.ui.detail.ViewZoomBehavior
+ com.mooc.ppjoke.ui.detail.ViewZoomBehavior$1
+ com.mooc.ppjoke.ui.detail.ViewZoomBehavior$FlingRunnable
+ com.mooc.ppjoke.ui.detail.ViewZoomBehavior$ViewZoomCallback
+com/mooc/ppjoke/databinding/LayoutFeedCommentListItemBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedCommentListItemBinding
+com/mooc/ppjoke/ui/find/TagListFragment.java
+ com.mooc.ppjoke.ui.find.TagListFragment
+ com.mooc.ppjoke.ui.find.TagListFragment$1
+ com.mooc.ppjoke.ui.find.TagListFragment$2
+ com.mooc.ppjoke.ui.find.TagListFragment$2$1
+com/mooc/ppjoke/ui/my/ProfileListFragment.java
+ com.mooc.ppjoke.ui.my.ProfileListFragment
+ com.mooc.ppjoke.ui.my.ProfileListFragment$1
+com/mooc/ppjoke/databinding/LayoutFeedTypeVideoBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedTypeVideoBinding
+com/mooc/ppjoke/utils/AppConfig.java
+ com.mooc.ppjoke.utils.AppConfig
+ com.mooc.ppjoke.utils.AppConfig$1
+ com.mooc.ppjoke.utils.AppConfig$2
+ com.mooc.ppjoke.utils.AppConfig$3
+com/mooc/ppjoke/databinding/LayoutFeedDetailTypeImageHeaderBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedDetailTypeImageHeaderBinding
+com/mooc/ppjoke/ui/share/ShareDialog.java
+ com.mooc.ppjoke.ui.share.ShareDialog
+ com.mooc.ppjoke.ui.share.ShareDialog$ShareAdapter
+ com.mooc.ppjoke.ui.share.ShareDialog$ShareAdapter$1
+ com.mooc.ppjoke.ui.share.ShareDialog$ShareAdapter$2
+com/mooc/ppjoke/ui/detail/FeedCommentAdapter.java
+ com.mooc.ppjoke.ui.detail.FeedCommentAdapter
+ com.mooc.ppjoke.ui.detail.FeedCommentAdapter$1
+ com.mooc.ppjoke.ui.detail.FeedCommentAdapter$2
+ com.mooc.ppjoke.ui.detail.FeedCommentAdapter$3
+ com.mooc.ppjoke.ui.detail.FeedCommentAdapter$ViewHolder
+com/mooc/ppjoke/utils/TimeUtils.java
+ com.mooc.ppjoke.utils.TimeUtils
+com/mooc/ppjoke/ui/detail/ViewAnchorBehavior.java
+ com.mooc.ppjoke.ui.detail.ViewAnchorBehavior
+com/mooc/ppjoke/databinding/ActivityLayoutCaptureBinding.java
+ com.mooc.ppjoke.databinding.ActivityLayoutCaptureBinding
+com/mooc/ppjoke/databinding/LayoutFeedTypeImageBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedTypeImageBinding
+com/mooc/ppjoke/model/BottomBar.java
+ com.mooc.ppjoke.model.BottomBar
+ com.mooc.ppjoke.model.BottomBar$Tab
+com/mooc/ppjoke/ui/publish/UploadFileWorker.java
+ com.mooc.ppjoke.ui.publish.UploadFileWorker
+com/mooc/ppjoke/ui/detail/FeedDetailViewModel.java
+ com.mooc.ppjoke.ui.detail.FeedDetailViewModel
+ com.mooc.ppjoke.ui.detail.FeedDetailViewModel$DataSource
+ com.mooc.ppjoke.ui.detail.FeedDetailViewModel$DataSource$1
+com/mooc/ppjoke/ui/home/FeedAdapter.java
+ com.mooc.ppjoke.ui.home.FeedAdapter
+ com.mooc.ppjoke.ui.home.FeedAdapter$1
+ com.mooc.ppjoke.ui.home.FeedAdapter$2
+ com.mooc.ppjoke.ui.home.FeedAdapter$FeedObserver
+ com.mooc.ppjoke.ui.home.FeedAdapter$ViewHolder
+com/mooc/ppjoke/databinding/LayoutFeedTextBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedTextBinding
+com/mooc/ppjoke/ui/detail/FeedDetailActivity.java
+ com.mooc.ppjoke.ui.detail.FeedDetailActivity
+com/mooc/ppjoke/ui/find/TagFeedListActivity.java
+ com.mooc.ppjoke.ui.find.TagFeedListActivity
+ com.mooc.ppjoke.ui.find.TagFeedListActivity$1
+ com.mooc.ppjoke.ui.find.TagFeedListActivity$2
+com/mooc/ppjoke/ui/publish/PublishActivity.java
+ com.mooc.ppjoke.ui.publish.PublishActivity
+ com.mooc.ppjoke.ui.publish.PublishActivity$1
+ com.mooc.ppjoke.ui.publish.PublishActivity$2
+ com.mooc.ppjoke.ui.publish.PublishActivity$3
+ com.mooc.ppjoke.ui.publish.PublishActivity$4
+ com.mooc.ppjoke.ui.publish.PublishActivity$5
+ com.mooc.ppjoke.ui.publish.PublishActivity$6
+ com.mooc.ppjoke.ui.publish.PublishActivity$7
+com/mooc/ppjoke/databinding/ActivityLayoutPreviewBinding.java
+ com.mooc.ppjoke.databinding.ActivityLayoutPreviewBinding
+com/mooc/ppjoke/exoplayer/IPlayTarget.java
+ com.mooc.ppjoke.exoplayer.IPlayTarget
+com/mooc/ppjoke/ui/MutableItemKeyedDataSource.java
+ com.mooc.ppjoke.ui.MutableItemKeyedDataSource
+com/mooc/ppjoke/ui/AbsViewModel.java
+ com.mooc.ppjoke.ui.AbsViewModel
+ com.mooc.ppjoke.ui.AbsViewModel$1
+ com.mooc.ppjoke.ui.AbsViewModel$2
+com/mooc/ppjoke/ui/InteractionPresenter.java
+ com.mooc.ppjoke.ui.InteractionPresenter
+ com.mooc.ppjoke.ui.InteractionPresenter$1
+ com.mooc.ppjoke.ui.InteractionPresenter$10
+ com.mooc.ppjoke.ui.InteractionPresenter$11
+ com.mooc.ppjoke.ui.InteractionPresenter$12
+ com.mooc.ppjoke.ui.InteractionPresenter$13
+ com.mooc.ppjoke.ui.InteractionPresenter$14
+ com.mooc.ppjoke.ui.InteractionPresenter$15
+ com.mooc.ppjoke.ui.InteractionPresenter$16
+ com.mooc.ppjoke.ui.InteractionPresenter$17
+ com.mooc.ppjoke.ui.InteractionPresenter$2
+ com.mooc.ppjoke.ui.InteractionPresenter$3
+ com.mooc.ppjoke.ui.InteractionPresenter$4
+ com.mooc.ppjoke.ui.InteractionPresenter$5
+ com.mooc.ppjoke.ui.InteractionPresenter$5$1
+ com.mooc.ppjoke.ui.InteractionPresenter$6
+ com.mooc.ppjoke.ui.InteractionPresenter$7
+ com.mooc.ppjoke.ui.InteractionPresenter$8
+ com.mooc.ppjoke.ui.InteractionPresenter$9
+com/mooc/ppjoke/databinding/LayoutFeedInteractionBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedInteractionBinding
+com/mooc/ppjoke/ui/home/HomeFragment.java
+ com.mooc.ppjoke.ui.home.HomeFragment
+ com.mooc.ppjoke.ui.home.HomeFragment$1
+ com.mooc.ppjoke.ui.home.HomeFragment$2
+ com.mooc.ppjoke.ui.home.HomeFragment$3
+com/mooc/ppjoke/ui/find/TagFeedListViewModel.java
+ com.mooc.ppjoke.ui.find.TagFeedListViewModel
+ com.mooc.ppjoke.ui.find.TagFeedListViewModel$1
+ com.mooc.ppjoke.ui.find.TagFeedListViewModel$DataSource
+com/mooc/ppjoke/databinding/LayoutFeedTagBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedTagBinding
+com/mooc/ppjoke/ui/sofa/SofaFragment.java
+ com.mooc.ppjoke.ui.sofa.SofaFragment
+ com.mooc.ppjoke.ui.sofa.SofaFragment$1
+ com.mooc.ppjoke.ui.sofa.SofaFragment$2
+ com.mooc.ppjoke.ui.sofa.SofaFragment$3
+com/mooc/ppjoke/ui/my/MyFragment.java
+ com.mooc.ppjoke.ui.my.MyFragment
+com/mooc/ppjoke/navigator/FixFragmentNavigator.java
+ com.mooc.ppjoke.navigator.FixFragmentNavigator
+com/mooc/ppjoke/databinding/LayoutFeedDetailAuthorInfoBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedDetailAuthorInfoBinding
+com/mooc/ppjoke/JokeApplication.java
+ com.mooc.ppjoke.JokeApplication
+com/mooc/ppjoke/databinding/ActivityLayoutTagFeedListBinding.java
+ com.mooc.ppjoke.databinding.ActivityLayoutTagFeedListBinding
+com/mooc/ppjoke/databinding/LayoutFeedTopCommentBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedTopCommentBinding
+com/mooc/ppjoke/databinding/LayoutFeedAuthorBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedAuthorBinding
+com/mooc/ppjoke/model/Feed.java
+ com.mooc.ppjoke.model.Feed
+com/mooc/ppjoke/ui/publish/TagBottomSheetDialogFragment.java
+ com.mooc.ppjoke.ui.publish.TagBottomSheetDialogFragment
+ com.mooc.ppjoke.ui.publish.TagBottomSheetDialogFragment$1
+ com.mooc.ppjoke.ui.publish.TagBottomSheetDialogFragment$1$1
+ com.mooc.ppjoke.ui.publish.TagBottomSheetDialogFragment$1$2
+ com.mooc.ppjoke.ui.publish.TagBottomSheetDialogFragment$OnTagItemSelectedListener
+ com.mooc.ppjoke.ui.publish.TagBottomSheetDialogFragment$TagsAdapter
+ com.mooc.ppjoke.ui.publish.TagBottomSheetDialogFragment$TagsAdapter$1
+ com.mooc.ppjoke.ui.publish.TagBottomSheetDialogFragment$TagsAdapter$2
+com/mooc/ppjoke/databinding/LayoutTagListItemBinding.java
+ com.mooc.ppjoke.databinding.LayoutTagListItemBinding
+com/mooc/ppjoke/databinding/LayoutProfileTabCommentInteractionBinding.java
+ com.mooc.ppjoke.databinding.LayoutProfileTabCommentInteractionBinding
+com/mooc/ppjoke/databinding/LayoutRefreshViewBinding.java
+ com.mooc.ppjoke.databinding.LayoutRefreshViewBinding
+com/mooc/ppjoke/model/Comment.java
+ com.mooc.ppjoke.model.Comment
+com/mooc/ppjoke/ui/detail/CommentDialog.java
+ com.mooc.ppjoke.ui.detail.CommentDialog
+ com.mooc.ppjoke.ui.detail.CommentDialog$1
+ com.mooc.ppjoke.ui.detail.CommentDialog$2
+ com.mooc.ppjoke.ui.detail.CommentDialog$3
+ com.mooc.ppjoke.ui.detail.CommentDialog$4
+ com.mooc.ppjoke.ui.detail.CommentDialog$5
+ com.mooc.ppjoke.ui.detail.CommentDialog$commentAddListener
+com/mooc/ppjoke/model/Ugc.java
+ com.mooc.ppjoke.model.Ugc
+com/mooc/ppjoke/databinding/LayoutFeedTypeCommentBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedTypeCommentBinding
+com/mooc/ppjoke/ui/detail/ImageViewHandler.java
+ com.mooc.ppjoke.ui.detail.ImageViewHandler
+ com.mooc.ppjoke.ui.detail.ImageViewHandler$1
+ com.mooc.ppjoke.ui.detail.ImageViewHandler$2
+com/mooc/ppjoke/utils/StringConvert.java
+ com.mooc.ppjoke.utils.StringConvert
+com/mooc/ppjoke/ui/find/FindFragment.java
+ com.mooc.ppjoke.ui.find.FindFragment
+com/mooc/ppjoke/model/User.java
+ com.mooc.ppjoke.model.User
+com/mooc/ppjoke/ui/login/UserManager.java
+ com.mooc.ppjoke.ui.login.UserManager
+ com.mooc.ppjoke.ui.login.UserManager$1
+ com.mooc.ppjoke.ui.login.UserManager$1$1
+com/mooc/ppjoke/ui/find/TagListViewModel.java
+ com.mooc.ppjoke.ui.find.TagListViewModel
+ com.mooc.ppjoke.ui.find.TagListViewModel$1
+ com.mooc.ppjoke.ui.find.TagListViewModel$DataSource
+ com.mooc.ppjoke.ui.find.TagListViewModel$DataSource$1
+com/mooc/ppjoke/databinding/LayoutFeedDetailTypeVideoBinding.java
+ com.mooc.ppjoke.databinding.LayoutFeedDetailTypeVideoBinding
+com/mooc/ppjoke/ui/login/LoginActivity.java
+ com.mooc.ppjoke.ui.login.LoginActivity
+ com.mooc.ppjoke.ui.login.LoginActivity$1
+ com.mooc.ppjoke.ui.login.LoginActivity$2
+ com.mooc.ppjoke.ui.login.LoginActivity$3
+ com.mooc.ppjoke.ui.login.LoginActivity$3$1
+ com.mooc.ppjoke.ui.login.LoginActivity$3$2
+com/mooc/ppjoke/ui/my/UserBehaviorListActivity.java
+ com.mooc.ppjoke.ui.my.UserBehaviorListActivity
+com/mooc/ppjoke/model/TagList.java
+ com.mooc.ppjoke.model.TagList
+com/mooc/ppjoke/ui/my/ProfileViewModel.java
+ com.mooc.ppjoke.ui.my.ProfileViewModel
+ com.mooc.ppjoke.ui.my.ProfileViewModel$1
+ com.mooc.ppjoke.ui.my.ProfileViewModel$DataSource
+ com.mooc.ppjoke.ui.my.ProfileViewModel$DataSource$1
+com/mooc/ppjoke/utils/NavGraphBuilder.java
+ com.mooc.ppjoke.utils.NavGraphBuilder
+com/mooc/ppjoke/databinding/ActivityLayoutPublishBinding.java
+ com.mooc.ppjoke.databinding.ActivityLayoutPublishBinding
+com/mooc/ppjoke/exoplayer/PageListPlayDetector.java
+ com.mooc.ppjoke.exoplayer.PageListPlayDetector
+ com.mooc.ppjoke.exoplayer.PageListPlayDetector$1
+ com.mooc.ppjoke.exoplayer.PageListPlayDetector$2
+ com.mooc.ppjoke.exoplayer.PageListPlayDetector$3
+ com.mooc.ppjoke.exoplayer.PageListPlayDetector$4
+com/mooc/ppjoke/ui/home/HomeViewModel.java
+ com.mooc.ppjoke.ui.home.HomeViewModel
+ com.mooc.ppjoke.ui.home.HomeViewModel$1
+ com.mooc.ppjoke.ui.home.HomeViewModel$2
+ com.mooc.ppjoke.ui.home.HomeViewModel$3
+ com.mooc.ppjoke.ui.home.HomeViewModel$FeedDataSource
+com/mooc/ppjoke/view/ListPlayerView.java
+ com.mooc.ppjoke.view.ListPlayerView
+com/mooc/ppjoke/ui/detail/ViewHandler.java
+ com.mooc.ppjoke.ui.detail.ViewHandler
+ com.mooc.ppjoke.ui.detail.ViewHandler$1
+ com.mooc.ppjoke.ui.detail.ViewHandler$2
+ com.mooc.ppjoke.ui.detail.ViewHandler$3
+com/mooc/ppjoke/MainActivity.java
+ com.mooc.ppjoke.MainActivity
+ com.mooc.ppjoke.MainActivity$1
+com/mooc/ppjoke/exoplayer/PageListPlay.java
+ com.mooc.ppjoke.exoplayer.PageListPlay
+com/mooc/ppjoke/databinding/FragmentMyBinding.java
+ com.mooc.ppjoke.databinding.FragmentMyBinding
+com/mooc/ppjoke/ui/my/ProfileListAdapter.java
+ com.mooc.ppjoke.ui.my.ProfileListAdapter
+ com.mooc.ppjoke.ui.my.ProfileListAdapter$1
+com/mooc/ppjoke/ui/my/UserBehaviorListFragment.java
+ com.mooc.ppjoke.ui.my.UserBehaviorListFragment
+ com.mooc.ppjoke.ui.my.UserBehaviorListFragment$1
+com/mooc/ppjoke/ui/publish/CaptureActivity.java
+ com.mooc.ppjoke.ui.publish.CaptureActivity
+ com.mooc.ppjoke.ui.publish.CaptureActivity$1
+ com.mooc.ppjoke.ui.publish.CaptureActivity$1$1
+ com.mooc.ppjoke.ui.publish.CaptureActivity$1$2
+ com.mooc.ppjoke.ui.publish.CaptureActivity$2
+ com.mooc.ppjoke.ui.publish.CaptureActivity$3
+ com.mooc.ppjoke.ui.publish.CaptureActivity$4
+com/mooc/ppjoke/databinding/ActivityLayoutProfileBinding.java
+ com.mooc.ppjoke.databinding.ActivityLayoutProfileBinding
+com/mooc/ppjoke/view/RecordView.java
+ com.mooc.ppjoke.view.RecordView
+ com.mooc.ppjoke.view.RecordView$1
+ com.mooc.ppjoke.view.RecordView$2
+ com.mooc.ppjoke.view.RecordView$onRecordListener
+com/mooc/ppjoke/exoplayer/PageListPlayManager.java
+ com.mooc.ppjoke.exoplayer.PageListPlayManager
+com/mooc/ppjoke/ui/detail/VideoViewHandler.java
+ com.mooc.ppjoke.ui.detail.VideoViewHandler
+ com.mooc.ppjoke.ui.detail.VideoViewHandler$1
+ com.mooc.ppjoke.ui.detail.VideoViewHandler$2
+com/mooc/ppjoke/databinding/LayoutCommentDialogBinding.java
+ com.mooc.ppjoke.databinding.LayoutCommentDialogBinding
+com/mooc/ppjoke/ui/my/UserBehaviorViewModel.java
+ com.mooc.ppjoke.ui.my.UserBehaviorViewModel
+ com.mooc.ppjoke.ui.my.UserBehaviorViewModel$DataSource
+ com.mooc.ppjoke.ui.my.UserBehaviorViewModel$DataSource$1
+com/mooc/ppjoke/view/PPImageView.java
+ com.mooc.ppjoke.view.PPImageView
+ com.mooc.ppjoke.view.PPImageView$1
+ com.mooc.ppjoke.view.PPImageView$2
+com/mooc/ppjoke/ui/AbsListFragment.java
+ com.mooc.ppjoke.ui.AbsListFragment
+com/mooc/ppjoke/databinding/ActivityFeedDetailTypeImageBinding.java
+ com.mooc.ppjoke.databinding.ActivityFeedDetailTypeImageBinding
+com/mooc/ppjoke/view/FullScreenPlayerView.java
+ com.mooc.ppjoke.view.FullScreenPlayerView
+com/mooc/ppjoke/model/Destination.java
+ com.mooc.ppjoke.model.Destination
+com/mooc/ppjoke/ui/publish/PreviewActivity.java
+ com.mooc.ppjoke.ui.publish.PreviewActivity
+com/mooc/ppjoke/model/SofaTab.java
+ com.mooc.ppjoke.model.SofaTab
+ com.mooc.ppjoke.model.SofaTab$Tabs
